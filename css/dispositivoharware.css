@@ -138,6 +138,11 @@ nav#menu a {
     justify-content: center;
 }
 
+/* Footer */
+footer a {
+    color: white;
+}
+
 
 
 
